@@ -1,5 +1,5 @@
 .Imagemfundo {
-    background-image: url('imagens/background2.jpg');
+    background-image: url('imagens/background.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -40,9 +40,10 @@
 #Alem {
     width: 500px;
     height: 200px;
+    
 }   
 p {
-    color: rgb(200, 200, 200);
+    color: rgb(0, 0, 0);
     padding-left: 10px;
     font-size: x-large;
 }
